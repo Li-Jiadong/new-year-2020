@@ -1,0 +1,55 @@
+body{
+    background-color: #e60000 !important;
+}
+.bigfont{
+    margin-top: 100px;
+    overflow: hidden;
+    display: flex;
+}
+.bigfont span{
+    color: #ffd700;
+    font-size: 65px;
+    font-weight: bold;
+    overflow: hidden;
+    margin: auto;
+}
+.bigengf{
+    margin-top: 20px;
+    overflow: hidden;
+    display: flex;
+}
+.bigengf span{
+    font-size:40px;
+    color: #ffd700;
+    font-weight: bold;
+    overflow: hidden;
+    margin: auto;
+}
+#line{
+    position: absolute;
+    display: block;
+    background-color: #ffd700;
+}
+.all{
+    display: flex;
+    flex-direction: column;
+}
+#img{
+    margin: auto;
+}
+#num{
+    margin-top: -455px;
+    display: block;
+    z-index: 100;
+    font-weight: bold;
+    font-size: 18px;
+    align-self:center;
+}
+.nn{
+    display: block;
+    z-index: 100;
+    font-weight: bold;
+    font-size: 18px;
+    align-self:center;
+    opacity: 0;
+}
