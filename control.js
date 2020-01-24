@@ -109,4 +109,5 @@ function change(){
     sp.innerHTML='(～￣▽￣)～得分:'+score+'(⊙o⊙)';
     document.getElementById('n1').style.opacity=1;
     document.getElementById('n2').style.opacity=1;
+    document.getElementById('n3').style.opacity=1;
 }
